@@ -1,4 +1,4 @@
-<img width="1563" height="866" alt="image" src="https://github.com/user-attachments/assets/484fa2c9-1280-4d7c-b804-973dd260b719" /># Phase 02 — Armor Architecture
+## Published Articles
 
 Constraint enforcement boundaries and restraint layers for ASI behavior.
 
