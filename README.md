@@ -31,7 +31,15 @@ xwhyz → WHYLD → Temporal Stewardship Institute (TSI)
 
 A synthetic oversight construct (TSSI) exists in MONITOR mode only.
 No enforcement, activation, or authority delegation is present.
+## Canon Status
 
+The ASI Governance Canon is complete.
+
+No further phases are planned.  
+No expansion roadmap exists.  
+Future activity, if any, is limited to archival stewardship, integrity monitoring, and contextual clarification.
+
+This repository is intentionally static.
 ## Use
 
 This repository exists for reference, critique, and long-horizon study.
