@@ -44,3 +44,10 @@ This repository is intentionally static.
 
 This repository exists for reference, critique, and long-horizon study.
 No contributions are requested.
+
+## Diagrams
+
+Architectural diagrams are provided for reference only.  
+They are illustrative, not prescriptive.
+
+See `/diagrams`.
