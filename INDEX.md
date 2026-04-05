@@ -10,7 +10,7 @@
 
 | Publication | Articles | GitHub Repo | What it addresses |
 |---|---|---|---|
-| **ASI Governance Canon** | 73 | [asi-governance-canon](https://github.com/XwhyZ-WHYLD/asi-governance-canon) | Constraint-first, non-dominant architecture for long-horizon ASI governance |
+| **ASI Governance Canon** | 66+7 | [asi-governance-canon](https://github.com/XwhyZ-WHYLD/asi-governance-canon) | Constraint-first, non-dominant architecture for long-horizon ASI governance |
 | **Parallel Intelligence Grid** | 12 | [parallel-intelligence-grid](https://github.com/XwhyZ-WHYLD/parallel-intelligence-grid) | Infrastructure and systems for resilient distributed AI |
 | **Universal Cognitive Schema** | — | [universal-cognitive-schema](https://github.com/XwhyZ-WHYLD/universal-cognitive-schema) | Open standard for portable AI identity across platforms |
 
